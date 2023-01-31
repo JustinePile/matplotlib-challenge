@@ -7,3 +7,5 @@ pymaceuticals.ipynb
 data/  
 ├─ Mouse_metadata.csv  
 ├─ Study_results.csv  
+
+![Screenshot](Pymaceuticals.png)
